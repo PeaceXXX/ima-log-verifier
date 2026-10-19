@@ -1,0 +1,7 @@
+{
+  "nonce": "299aaeaf2a10c8955bdd07d29cf7fef5",
+  "aggregate": "edf2ce764f7bf44f7cb006b5aaeeb61f0db003e842e6706adbd6ec0770556b83",
+  "scopes": {
+    "/srv/app-a/": "f27625ef07c19962edc22376a06502b458e420f7ac4e374dc39f5569f1417382"
+  }
+}

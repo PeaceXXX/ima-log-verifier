@@ -1,0 +1,15 @@
+# Go binaries and build cache
+/bin/
+/ima-verify
+/ima-gen
+*.exe
+*.test
+*.out
+
+# Module artifacts
+/vendor/
+
+# Editor and OS noise
+.DS_Store
+.idea/
+.vscode/

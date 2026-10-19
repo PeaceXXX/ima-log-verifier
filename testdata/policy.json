@@ -1,0 +1,124 @@
+{
+  "default": "unknown",
+  "rules": [
+    {
+      "path": "/srv/app-a/bin/app-0",
+      "digests": [
+        "sha256:56c8caf1c3d534704dac6c57e030129c534fff546fad61575b4598b893cb3134"
+      ]
+    },
+    {
+      "path": "/etc/hostname",
+      "digests": [
+        "sha256:f593a1e083c38584aea9e5d5e124d214f8e5547880e9ab90bf1c724f124661fe",
+        "sha256:046a4c73a7b42e1db64dab37501ad95b6108bc68605ef66a227948d65ec34c7b",
+        "sha256:d8e45a89c4f19d529cf525b0f748693a3e65eabcbaa672e37ff368c0c5a93254"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-1",
+      "digests": [
+        "sha256:bf06076f20b6f07c2bbc74daa428280b1f24359532adf7903a1fb2c75c4f85ab"
+      ]
+    },
+    {
+      "path": "/usr/sbin/nginx",
+      "digests": [
+        "sha256:51d0c5f18c615d3e18ece7dea6944c5e0dccdd86d67cbf0ca636bae95e76199d"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-2",
+      "digests": [
+        "sha256:b014ac3caefb3f97dee44c6253aa52742008be9dcc4ec27a857af898a75955c8"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-3",
+      "digests": [
+        "sha256:5ed89741754dbbd9503e0cc19345ab281ee65be1ab50108af89eebc1317e7a0d"
+      ]
+    },
+    {
+      "path": "/usr/bin/systemd",
+      "digests": [
+        "sha256:1f4e28f2c6173f9876db2d0fb64a182f0f3759a5adca90aa328e127327ad3285",
+        "sha256:df961b26de139973238f5f84fb905904ec0d41dc5632a86a97945bee68f6839f"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-4",
+      "digests": [
+        "sha256:780d33cf6af4b3c76dab2c909c1eccab9eb520983864a3c049a537a543c03525"
+      ]
+    },
+    {
+      "path": "/usr/bin/sshd",
+      "digests": [
+        "sha256:9b9ed69457b37394f3359dff648f25627a8a219b4cb25e6d4980b4af585ce2f7"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-5",
+      "digests": [
+        "sha256:f483176ab5fd11f25605094b97dc3234a0cd531588cfac5b6d60e756f66d2d15"
+      ]
+    },
+    {
+      "path": "/usr/bin/python3",
+      "digests": [
+        "sha256:007f21100691429110befe6532358d73161d254e3717c33b5771a5243feb9cdf",
+        "sha256:4d24513957566e7c0ddd655d3eebbbb82a863f3c7fd80d7450bf31ec2bbf7633"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-6",
+      "digests": [
+        "sha256:40f0f32b6f6dee0ad59f658c084c88e0778c1af1565b034586023ca81d1da5ac"
+      ]
+    },
+    {
+      "path": "/usr/bin/docker",
+      "digests": [
+        "sha256:8d436f2e0f66b70f131c48dff030b31318937780cc5da1c86d6627955f86472e",
+        "sha256:6dc383b5747d613d5550de8a4c8f002b1aaa797b5b2ea64878d59a0cdd8f574b"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-7",
+      "digests": [
+        "sha256:984a22bf67e9fba2e16e9cff6e8a4196595cc55273b761aa4ab518c84cd48bec"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-8",
+      "digests": [
+        "sha256:cb0ee013102d5d014e78084e22fa9cfe284bd7c178cbae135c44be97fc0b2876"
+      ]
+    },
+    {
+      "path": "/usr/bin/containerd",
+      "digests": [
+        "sha256:6d939011f37d299036055fd2aa0c6113494b6a6affdce0ba8dd8421b6e158035"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-9",
+      "digests": [
+        "sha256:16f89578496574464f4b1b41e0b4efa0335c9aa9bc71db91b9f7e4d02ce33827"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-10",
+      "digests": [
+        "sha256:ecc0cfadd5174bde91676446fb493ab58b270367ce46a4806c8e0f95cdbd376b"
+      ]
+    },
+    {
+      "path": "/srv/app-a/bin/app-11",
+      "digests": [
+        "sha256:beabfaa8f173b3077c9aac92626b033a4886122c021bcf312a98cd15a65d9ddf"
+      ]
+    }
+  ]
+}
